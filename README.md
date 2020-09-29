@@ -7,6 +7,8 @@ The goal was create an angry text detector that would predict if the text was an
 - [Emotion Stimulus](http://www.site.uottawa.ca/~diana/resources/emotion_stimulus_data/)
 - [ISEAR](https://www.researchgate.net/figure/Characteristics-of-the-ISEAR-Dataset_tbl1_313407834)
 - [WASSA-2017](http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html)
+- Twitter API
+- Reddit API
 
 #### File Contents
 - `Data Cleaning and Topic Modeling` contains all loading and cleaning of movie scripts and sentiment analysis. 
